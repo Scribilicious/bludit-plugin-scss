@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "SCSS-compiler",
+        "description": "Een SCSS-compiler voor eenvoudige thematisering. Maakt gebruik van de scssphp-compiler (https://scssphp.github.io/scssphp)."
+    },
+    "please-support-mrbot": "Als je geniet van mijn plugin, steun me dan door op de onderstaande knop te klikken. Bedankt!",
+    "scss-help": "Een SCSS-compiler voor eenvoudige thematisering. Maakt gebruik van de scssphp-compiler (https://scssphp.github.io/scssphp). Voeg gewoon de bron van een SCSS-map en het doel voor de gerenderde CSS-bestanden toe, en de SCSS-compiler doet de rest.",
+    "scss-settings": "Instellingen",
+    "scss-develop-mode": "Ontwikkelingsmodus",
+    "scss-deactivated": "Gedeactiveerd",
+    "scss-activated": "Geactiveerd",
+    "scss-compile": "Nu compileren!",
+    "scss-source": "Bron",
+    "scss-enter-source": "Voer het bronbestand of pad in. Als het een pad is, worden alle SCSS-bestanden in dat pad gecompileerd.",
+    "scss-target": "Doel",
+    "scss-enter-target": "Voer het doelpad in.",
+    "scss-paths": "Paden",
+    "scss-add": "Pad toevoegen",
+    "scss-file-error": "Bestand bestaat niet.",
+    "scss-folder-error": "Map bestaat niet.",
+    "scss-delete": "Pad verwijderen",
+    "scss-save": "Opslaan"
+}

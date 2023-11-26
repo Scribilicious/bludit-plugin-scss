@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "Compilateur SCSS",
+        "description": "Un compilateur SCSS pour le theming facile. Utilise le compilateur scssphp (https://scssphp.github.io/scssphp)."
+    },
+    "please-support-mrbot": "Si vous aimez mon plugin, merci de me soutenir en cliquant sur le bouton ci-dessous. Merci !",
+    "scss-help": "Un compilateur SCSS pour le theming facile. Utilise le compilateur scssphp (https://scssphp.github.io/scssphp). Il suffit d'ajouter la source d'un dossier SCSS et la destination des fichiers CSS générés, et le compilateur SCSS fait le reste.",
+    "scss-settings": "Paramètres",
+    "scss-develop-mode": "Mode développement",
+    "scss-deactivated": "Désactivé",
+    "scss-activated": "Activé",
+    "scss-compile": "Compiler maintenant !",
+    "scss-source": "Source",
+    "scss-enter-source": "Entrez le fichier source ou le chemin. S'il s'agit d'un chemin, tous les fichiers SCSS de ce chemin seront compilés.",
+    "scss-target": "Destination",
+    "scss-enter-target": "Entrez le chemin de destination.",
+    "scss-paths": "Chemins",
+    "scss-add": "Ajouter un chemin",
+    "scss-file-error": "Le fichier n'existe pas.",
+    "scss-folder-error": "Le dossier n'existe pas.",
+    "scss-delete": "Supprimer le chemin",
+    "scss-save": "Enregistrer"
+}

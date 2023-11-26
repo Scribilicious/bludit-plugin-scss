@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "Компилятор SCSS",
+        "description": "Компилятор SCSS для удобной тематизации. Использует компилятор scssphp (https://scssphp.github.io/scssphp)."
+    },
+    "please-support-mrbot": "Если вам нравится мой плагин, пожалуйста, поддержите меня, нажав на кнопку ниже. Спасибо!",
+    "scss-help": "Компилятор SCSS для удобной тематизации. Использует компилятор scssphp (https://scssphp.github.io/scssphp). Просто добавьте исходный файл или путь к папке SCSS и целевой путь для создания CSS-файлов, и компилятор SCSS сделает все остальное.",
+    "scss-settings": "Настройки",
+    "scss-develop-mode": "Режим разработки",
+    "scss-deactivated": "Отключено",
+    "scss-activated": "Активировано",
+    "scss-compile": "Скомпилировать сейчас!",
+    "scss-source": "Источник",
+    "scss-enter-source": "Введите исходный файл или путь. Если это путь, будут скомпилированы все SCSS-файлы в этом пути.",
+    "scss-target": "Цель",
+    "scss-enter-target": "Введите целевой путь.",
+    "scss-paths": "Пути",
+    "scss-add": "Добавить путь",
+    "scss-file-error": "Файл не существует.",
+    "scss-folder-error": "Папка не существует.",
+    "scss-delete": "Удалить путь",
+    "scss-save": "Сохранить"
+}

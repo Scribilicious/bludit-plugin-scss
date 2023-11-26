@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "SCSSコンパイラ",
+        "description": "簡単なテーマ作成のためのSCSSコンパイラです。scssphp（https://scssphp.github.io/scssphp）コンパイラを使用しています。"
+    },
+    "please-support-mrbot": "このプラグインがお気に召しましたら、以下のボタンをクリックしてサポートしてください。ありがとうございます！",
+    "scss-help": "簡単なテーマ作成のためのSCSSコンパイラです。scssphp（https://scssphp.github.io/scssphp）コンパイラを使用しています。SCSSフォルダのソースとCSSファイルの出力先を追加するだけで、SCSSコンパイラが残りを自動的に行います。",
+    "scss-settings": "設定",
+    "scss-develop-mode": "開発モード",
+    "scss-deactivated": "無効化",
+    "scss-activated": "有効化",
+    "scss-compile": "今すぐコンパイル！",
+    "scss-source": "ソース",
+    "scss-enter-source": "ソースファイルまたはパスを入力してください。パスの場合は、そのパスにあるすべてのSCSSファイルがコンパイルされます。",
+    "scss-target": "出力先",
+    "scss-enter-target": "出力先のパスを入力してください。",
+    "scss-paths": "パス",
+    "scss-add": "パスを追加",
+    "scss-file-error": "ファイルが存在しません。",
+    "scss-folder-error": "フォルダが存在しません。",
+    "scss-delete": "パスを削除",
+    "scss-save": "保存"
+}

@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "Compilador SCSS",
+        "description": "Un compilador SCSS para facilitar el tema. Utiliza el compilador scssphp (https://scssphp.github.io/scssphp)."
+    },
+    "please-support-mrbot": "Si disfrutas de mi complemento, por favor apóyame haciendo clic en el botón de abajo. ¡Gracias!",
+    "scss-help": "Un compilador SCSS para facilitar el tema. Utiliza el compilador scssphp (https://scssphp.github.io/scssphp). Simplemente agrega la fuente de una carpeta SCSS y el destino para los archivos CSS generados, y el compilador SCSS se encargará del resto.",
+    "scss-settings": "Configuración",
+    "scss-develop-mode": "Modo de desarrollo",
+    "scss-deactivated": "Desactivado",
+    "scss-activated": "Activado",
+    "scss-compile": "¡Compilar ahora!",
+    "scss-source": "Fuente",
+    "scss-enter-source": "Ingresa el archivo de origen o la ruta. Si es una ruta, se compilarán todos los archivos SCSS en esa ruta.",
+    "scss-target": "Destino",
+    "scss-enter-target": "Ingresa la ruta de destino.",
+    "scss-paths": "Rutas",
+    "scss-add": "Agregar ruta",
+    "scss-file-error": "El archivo no existe.",
+    "scss-folder-error": "La carpeta no existe.",
+    "scss-delete": "Eliminar ruta",
+    "scss-save": "Guardar"
+}

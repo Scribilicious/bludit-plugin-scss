@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "SCSS Compiler",
+        "description": "A SCSS compiler for easy theming. Uses the scssphp (https://scssphp.github.io/scssphp) compiler."
+    },
+    "please-support-mrbot": "If you enjoy my plugin, please support me by clicking the button below. Thank you!",
+    "scss-help": "A SCSS compiler for easy theming. Uses the scssphp (https://scssphp.github.io/scssphp) compiler. Just add the source of an SCSS folder and the target for the rendered CSS files, and the SCSS Compiler does the rest.",
+    "scss-settings": "Settings",
+    "scss-develop-mode": "Development mode",
+    "scss-deactivated": "Deactivated",
+    "scss-activated": "Activated",
+    "scss-compile": "Compile Now!",
+    "scss-source": "Source",
+    "scss-enter-source": "Enter the source file or path. If it's a path, all SCSS files in that path are compiled.",
+    "scss-target": "Target",
+    "scss-enter-target": "Enter the target path.",
+    "scss-paths": "Paths",
+    "scss-add": "Add path",
+    "scss-file-error": "File does not exist.",
+    "scss-folder-error": "Folder does not exist.",
+    "scss-delete": "Delete path",
+    "scss-save": "Save"
+}

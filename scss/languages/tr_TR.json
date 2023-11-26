@@ -1,0 +1,23 @@
+{
+    "plugin-data": {
+        "name": "SCSS Derleyici",
+        "description": "Kolay tema oluşturmak için bir SCSS derleyici. scssphp (https://scssphp.github.io/scssphp) derleyicisini kullanır."
+    },
+    "please-support-mrbot": "Eklentimi beğeniyorsanız, lütfen aşağıdaki düğmeye tıklayarak beni destekleyin. Teşekkür ederim!",
+    "scss-help": "Kolay tema oluşturmak için bir SCSS derleyici. scssphp (https://scssphp.github.io/scssphp) derleyicisini kullanır. Sadece bir SCSS klasörünün kaynağını ve oluşturulan CSS dosyalarının hedefini ekleyin, SCSS Derleyici gerisini yapar.",
+    "scss-settings": "Ayarlar",
+    "scss-develop-mode": "Geliştirme modu",
+    "scss-deactivated": "Devre dışı",
+    "scss-activated": "Etkinleştirildi",
+    "scss-compile": "Şimdi Derle!",
+    "scss-source": "Kaynak",
+    "scss-enter-source": "Kaynak dosyasını veya yolunu girin. Eğer bir yol ise, o yol içindeki tüm SCSS dosyaları derlenir.",
+    "scss-target": "Hedef",
+    "scss-enter-target": "Hedef yolunu girin.",
+    "scss-paths": "Yollar",
+    "scss-add": "Yol ekle",
+    "scss-file-error": "Dosya mevcut değil.",
+    "scss-folder-error": "Klasör mevcut değil.",
+    "scss-delete": "Yolu sil",
+    "scss-save": "Kaydet"
+}
